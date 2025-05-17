@@ -3,7 +3,7 @@
 - 👀 I’m interested in software engineering, ethical hacking, and building AI-powered apps.
 - 🌱 I’m currently learning android Development (CodePath) and Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects, mobile apps, or automation tools
-- 📫 How to reach me [LinkedIn] (www.linkedin.com/in/samip-prasai-746919287)| [Email](samipprasai@isu.edu)
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/samip-prasai-746919287) | [Email](mailto:samipprasai@isu.edu)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact:  I play football ⚽ every week and enjoy training calisthenics as well as going to gym.
 
